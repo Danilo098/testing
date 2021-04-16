@@ -1,0 +1,94 @@
+body{
+    background-color: #00695F;
+    
+}
+h1{
+    font-size: 25px;
+    background-color: #D257FF;
+    font-family: Arial;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    background-color: #FF80FA;
+}
+
+h2{
+    font-size: 25px;
+    background-color: #D257FF;
+    font-family: Arial;
+    text-align: center;
+}
+    
+
+h3{
+    font-size: 25px;
+    background-color: #D257FF;
+    font-family: Arial;
+    text-align: center;
+}
+
+h4{
+    font-size: 25px;
+    background-color: #D257FF;
+    font-family: Arial;
+    text-align: center;
+}
+
+h5{
+    font-size: 25px;
+    background-color: #D257FF;
+    font-family: Arial;
+    text-align: center;
+}
+
+
+section{
+    background-color: white;
+    display: block
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    max-height: 150px;
+    margin-top: 150px;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.menu{
+    background-color: #93938A;
+    color: white;
+    text-align: center;
+        display: block
+    margin-left: auto;
+    margin-right: auto;
+    max-width: auto;
+    max-height: 20px;
+}
+
+a:link{
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.menu li{
+    list-style: none;
+    
+}
+
+.menu ul {
+    color: white;
+  display: flex; 
+   flex-direction: reverse-row; 
+  justify-content: space-around;
+
+
+list-style: none
+
+
+    
